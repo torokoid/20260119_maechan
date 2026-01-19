@@ -209,7 +209,7 @@ p.note { display: none; }
 <h2><span class="yellow">トラックの上にはタイの国旗、日本で日の丸つけてたらちょっと不思議ですが、タイでは普通</span></h2>
 <a href="20260119_017.JPG" target="_blank"><img src="20260119_017.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">メーチャンを通過して国道をさらに南下すると、見慣れた双コブの山,<br>大学本校車の後ろの山ですね</span></h2>
+<h2><span class="yellow">メーチャンを通過して国道をさらに南下すると、見慣れた双コブの山,<br>大学本校舎の後ろの山ですね</span></h2>
 <a href="20260119_018.JPG" target="_blank"><img src="20260119_018.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">国道沿いの大学の街を通過</span></h2>
