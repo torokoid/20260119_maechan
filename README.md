@@ -183,7 +183,7 @@ p.note { display: none; }
 <h2><span class="yellow">北が開けたところから、伝説の山の顔の部分が見えてました</span></h2>
 <a href="20260119_005.JPG" target="_blank"><img src="20260119_005.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">珍しく蝶々が待って来てくれたのでパチリ！</span></h2>
+<h2><span class="yellow">珍しく蝶々が舞って来てくれたのでパチリ！</span></h2>
 <a href="20260119_006.JPG" target="_blank"><img src="20260119_006.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">木のお花も陽射しの下でニッコリ</span></h2>
