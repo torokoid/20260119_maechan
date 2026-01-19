@@ -306,7 +306,8 @@ p.note { display: none; }
 <h2><span class="yellow">夕暮れはほぼ終了</span></h2>
 <a href="20260119_060.JPG" target="_blank"><img src="20260119_060.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-
+<h2><span class="yellow">星空が綺麗で、先日の星座に加えて「冬の大三角形」がトレースできました</span></h2>
+<a href="20260119_061.JPG" target="_blank"><img src="20260119_061.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 
 
